@@ -22,9 +22,6 @@ const resolvers = {
       }
       links.push(link)
       return link
-    },
-    updateLink: (parent, args) => {
-      links.filter(val => val.id === id)[0]
     }
   }
 }
