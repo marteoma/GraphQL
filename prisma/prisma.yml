@@ -1,4 +1,5 @@
-endpoint: ''
+#endpoint: ''
+endpoint: https://us1.prisma.sh/mateo-arboleda-e150a8/prisma/dev
 
 datamodel: datamodel.prisma
 
